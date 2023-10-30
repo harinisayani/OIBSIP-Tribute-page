@@ -1,0 +1,45 @@
+body{
+    background-color:pink;
+}
+
+#heading{
+    font-style: italic;
+    font-size: 50px;
+    padding-left: 30%;
+    padding-top: 4%;
+    padding-bottom: 3%;
+    color:rgb(223, 17, 51);
+}
+#first-para{
+    padding-top: 3%;
+    padding-left: 30%;
+    color: blue;
+}
+#second-para{
+    padding-left: 50%;
+    color:rgb(247, 54, 247);
+}
+#imgage{
+    box-shadow: 0px 6px 11px 5px;
+    border-style: hidden;
+    margin-left: 30%;
+    border-radius: 50%;
+}
+#second-part{
+    background-image: url(background.png);
+    overflow: hidden;
+    background-size: cover;
+    opacity: transparent;
+    border:solid;
+    border-color: white;
+    margin-top: 10%;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+    box-shadow: 0px 10px 22px 0px;
+    border-radius: 5%;
+    background-color: aliceblue;
+    
+}
